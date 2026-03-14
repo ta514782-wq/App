@@ -1,0 +1,5 @@
+{
+  "name": "VogueAI - Virtual Try-On",
+  "description": "AI-powered virtual try-on system for local fashion retailers using Gemini Vision.",
+  "requestFramePermissions": []
+}
